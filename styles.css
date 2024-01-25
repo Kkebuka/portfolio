@@ -9,11 +9,12 @@ body {
 .head-div {
     width: 100%;
     margin: 0px;
-    height: auto;
+    height: 50px;
     background-color: aqua;
     display: flex;
     justify-content: flex-end;
-    gap: 20px;
+    align-items: center;
+    gap: 30px;
     padding-right: 500px;
 }
 .head-div > a {
