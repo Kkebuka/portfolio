@@ -40,6 +40,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #005555;
 }
 button {
     width: 150px;
@@ -57,9 +58,12 @@ button {
     grid-template-rows: auto auto;
     gap: 20px;
 }
+h2 {
+    color: antiquewhite
+}
 .work {
     width: 100%;
-    background-color: rgb(216, 175, 175);
+    background-color: black;
     color: white;
     display: flex;
     flex-direction: column;
@@ -116,6 +120,7 @@ footer {
     justify-content: center;
     background-color: rgb(6, 102, 70);
     font-size: 1.2rem;
+    color : antiquewhite
 }
 
 @media (max-width: 800px) {
