@@ -59,7 +59,7 @@ button {
     gap: 20px;
 }
 h2 {
-    color: antiquewhite
+    color: antiquewhite;
 }
 .work {
     width: 100%;
@@ -160,5 +160,8 @@ footer {
         font-size: 1.2rem;
         margin: 20px 0px;
         border-radius: 5px;
+    }
+    .work {
+        font-size: 0.8rem;
     }
 }
